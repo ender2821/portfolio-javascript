@@ -40,6 +40,13 @@ var imageData = {
                     "description": "This is a couple of the finalized designs for the login and user profile pages for kinktastic on the mobile experience."
                 },
                 {
+                    "name": "Kinktastic Desktop",
+                    "tags": "",
+                    "image": "images/web-kinktastic-5.jpg",
+                    "url": "",
+                    "description": "This is one of the screen designs for desktop view."
+                },
+                {
                     "name": "Kinktastic Mobile Site Map",
                     "tags": "",
                     "image": "images/web-kinktastic-3.jpg",
@@ -153,21 +160,21 @@ var imageData = {
         	"category": "cme",
             "items": [
                 {
-                    "name": "Online Trading Platform Desktop",
+                    "name": "CME Firmsoft Trading Platform",
                     "tags": ["Concepting", "Design", "HTML", "CSS", "Javascript"],
                     "image": "images/web-cme-1.jpg",
                     "url": "",
-                    "description": "This was a product design with functionality built for a financial company in Chicago. I was in charge for building the trading applications into the suite, adhering to the companies brand standards."
+                    "description": "This was a product design with functionality built for the Chicago Mercantile Exchange in Chicago. I was in charge for building the trading applications into the suite, adhering to the companies brand standards."
                 },
                 {
-                    "name": "Online Trading Platform Tablet",
+                    "name": "CME Firmsoft Trading Platform Tablet",
                     "tags": "",
                     "image": "images/web-cme-2.jpg",
                     "url": "",
                     "description": "The software had to be fully dynamic spanning across all mobile platforms. This is the view for tablets."
                 },
                 {
-                    "name": "Online Trading Platform Phone",
+                    "name": "CME Firmsoft Trading Platform Phone",
                     "tags": "",
                     "image": "images/web-cme-3.jpg",
                     "url": "",
@@ -202,7 +209,7 @@ var imageData = {
                     "name": "Cybernetic Homepage Design",
                     "tags": ["Concepting", "Design", "HTML", "CSS"],
                     "image": "images/web-cyber-1.jpg",
-                    "url": "http://www.aimspower.com/",
+                    "url": "http://www.cyberneticinc.com/",
                     "description": "This is a website I built for cybernetic INC, a software development company specializing in Microsoft products. I worked with the client to get an approved design, and also did all front end markup of the site."
                 },
                 {
